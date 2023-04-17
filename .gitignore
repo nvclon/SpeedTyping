@@ -1,0 +1,7 @@
+__PYCACHE__
+Thumbs.db
+.DS_*
+._*
+.history
+.vs
+bestscore.txt
