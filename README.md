@@ -29,5 +29,5 @@ pip install -r requirements.txt
 - pygame
 
 ## Developers
--nvclon
+- nvclon
 
